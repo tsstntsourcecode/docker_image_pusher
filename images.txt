@@ -1,7 +1,3 @@
-emby/embyserver
-allanpk716/chinesesubfinder
-linuxserver/plex
-xiaoyaliu/alist
 jenkins
 jellyfin/jellyfin
 
