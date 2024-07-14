@@ -1,12 +1,6 @@
-node:14
-node:16
-node:18
-node:20
-wordpress
-emby
-jackett
+emby/embyserver
 allanpk716/chinesesubfinder
-plex
+linuxserver/plex
 xiaoyaliu/alist
 jenkins
 jellyfin/jellyfin
