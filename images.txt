@@ -1,1 +1,5 @@
-jenkins/jenkins
+linuxserver/jackett
+linuxserver/transmission
+linuxserver/plex
+linuxserver/radarr
+emby/embyserver:4.6.7.0
