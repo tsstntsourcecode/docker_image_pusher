@@ -1,1 +1,3 @@
-linuxserver/emby:4.9.0-beta
+star7th/showdoc
+star7th/showdoc:v3.2.6
+redis:7.0
