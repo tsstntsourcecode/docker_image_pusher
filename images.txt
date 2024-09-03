@@ -1,1 +1,1 @@
-whyour/qinglong:latest
+whyour/qinglong:2.10.13
