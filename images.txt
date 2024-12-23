@@ -1,1 +1,2 @@
-fastposter/fastposter
+clickhouse/clickhouse-server
+qianmoq/datacap
