@@ -1,3 +1,1 @@
-linuxserver/qbittorrent:5.1.2
-linuxserver/jackett:0.22.2153
-allanpk716/chinesesubfinder:v0.55.3
+jellyfin/jellyfin:2025070705
