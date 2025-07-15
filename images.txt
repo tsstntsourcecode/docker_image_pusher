@@ -1,2 +1,1 @@
-emby/embyserver:4.9.1.6
-linuxserver/emby:4.9.1-beta
+openlistteam/openlist:beta
