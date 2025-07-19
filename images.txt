@@ -1,1 +1,2 @@
-mzz2017/v2raya:v2.2.6.7
+snowdreamtech/frps:nightly-bookworm
+snowdreamtech/frpc:nightly-bookworm
