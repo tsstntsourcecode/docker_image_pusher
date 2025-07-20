@@ -1,2 +1,1 @@
-snowdreamtech/frps:nightly-bookworm
-snowdreamtech/frpc:nightly-bookworm
+ghcr.io/senshinya/moontv:latest
