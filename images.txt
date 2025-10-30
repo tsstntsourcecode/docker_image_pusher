@@ -1,1 +1,3 @@
-ghcr.io/senshinya/moontv:latest
+tdengine/tsdb:3.3.8.1
+tdengine/tsdb:3.3.7.0
+tdengine/tdengine:3.3.6.13
