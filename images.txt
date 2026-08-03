@@ -1,1 +1,2 @@
-weishaw/sub2api:0.1
+postgres:18-alpine
+redis:8-alpine
